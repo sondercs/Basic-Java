@@ -1,3 +1,4 @@
+package BasicoDoJava;
 import java.util.HashSet;
 
 public class ColecaoHashSet {

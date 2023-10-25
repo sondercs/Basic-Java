@@ -1,7 +1,6 @@
 package pessoa;
 
 public class TesteDePessoa {
-
     public static void main(String[] args) {
         Professor professor = new Professor();
         professor.setCpf("158855701201");
@@ -19,3 +18,4 @@ public class TesteDePessoa {
        System.out.println(aluno.imprimirDadosDaPessoa());
     }
 }
+ 
