@@ -1,60 +1,61 @@
-# Conceitos Básicos da Linguagem Java
+# Basic Concepts of the Java Language
 
-Neste repositório, você encontrará uma introdução aos conceitos fundamentais da linguagem de programação Java. Apesar das opiniões de que o Java é uma linguagem "morta," os números mostram o contrário. Java pode ser um desafio, mas para muitos, se tornou uma linguagem favorita.
+In this repository, you will find an introduction to the fundamental concepts of the Java programming language. Despite opinions that Java is a "dead" language, the numbers show the opposite. Java can be challenging, but for many, it has become a favorite language.
 
-**Nota Importante**: Este repositório serve como um registro da minha jornada de estudos no curso de Java oferecido pela RocktSeat.
+**Important Note:** This repository serves as a record of my learning journey in the Java course offered by RocktSeat.
 
-## Índice
+## Table of Contents
 
-- [Introdução](#introdução)
-- [Requisitos](#requisitos)
-- [Configuração do Ambiente](#configuração-do-ambiente)
-- [Estrutura Básica do Java](#estrutura-básica-do-java)
-- [Variáveis e Tipos de Dados](#variáveis-e-tipos-de-dados)
-- [Estruturas de Controle](#estruturas-de-controle)
-- [Funções e Métodos](#funções-e-métodos)
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Environment Setup](#environment-setup)
+- [Basic Structure of Java](#basic-structure-of-java)
+- [Variables and Data Types](#variables-and-data-types)
+- [Control Structures](#control-structures)
+- [Functions and Methods](#functions-and-methods)
 - [Arrays](#arrays)
-- [Orientação a Objetos](#orientação-a-objetos)
-- [Tratamento de Exceções](#tratamento-de-exceções)
-## Introdução
+- [Object-Oriented Programming](#object-oriented-programming)
+- [Exception Handling](#exception-handling)
 
-Este repositório serve como uma introdução aos conceitos básicos da linguagem de programação Java. É um ponto de partida para aqueles que desejam aprender Java ou aprimorar seus conhecimentos na linguagem.
+## Introduction
 
-## Requisitos
+This repository serves as an introduction to the basic concepts of the Java programming language. It is a starting point for those who want to learn Java or enhance their knowledge of the language.
 
-Para começar a trabalhar com os exemplos apresentados neste repositório, você precisará ter o seguinte:
+## Requirements
 
-- [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html) instalado
-- Um editor de código ou ambiente de desenvolvimento integrado (IDE) de sua escolha, como [Eclipse](https://www.eclipse.org/downloads/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), ou um simples editor de texto.
+To start working with the examples presented in this repository, you will need the following:
 
-## Configuração do Ambiente
+- [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html) installed
+- A code editor or integrated development environment (IDE) of your choice, such as [Eclipse](https://www.eclipse.org/downloads/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), or a simple text editor.
 
-Explique como configurar o ambiente de desenvolvimento Java, incluindo a configuração das variáveis de ambiente, se necessário. Você pode fornecer instruções específicas para seu sistema operacional.
+## Environment Setup
 
-## Estrutura Básica do Java
+Explain how to set up the Java development environment, including configuring environment variables if necessary. You can provide specific instructions for your operating system.
 
-Descreva a estrutura básica de um programa Java, incluindo como criar classes, métodos principais (`main`) e como executar um programa Java.
+## Basic Structure of Java
 
-## Variáveis e Tipos de Dados
+Describe the basic structure of a Java program, including how to create classes, main methods (`main`), and how to run a Java program.
 
-Explicite os conceitos de variáveis em Java, os tipos de dados primitivos e como declarar e inicializar variáveis.
+## Variables and Data Types
 
-## Estruturas de Controle
+Explain the concepts of variables in Java, primitive data types, and how to declare and initialize variables.
 
-Aborde as estruturas de controle, como condicionais (if, else, switch) e loops (for, while, do-while).
+## Control Structures
 
-## Funções e Métodos
+Cover control structures, such as conditionals (if, else, switch) and loops (for, while, do-while).
 
-Introduza o conceito de funções e métodos em Java, explicando como declarar, chamar e passar argumentos para funções.
+## Functions and Methods
+
+Introduce the concept of functions and methods in Java, explaining how to declare, call, and pass arguments to functions.
 
 ## Arrays
 
-Descreva como trabalhar com arrays em Java, incluindo declaração, inicialização e manipulação.
+Describe how to work with arrays in Java, including declaration, initialization, and manipulation.
 
-## Orientação a Objetos
+## Object-Oriented Programming
 
-Apresente os princípios da programação orientada a objetos (POO) em Java, incluindo classes, objetos, herança, polimorfismo, encapsulamento e abstração.
+Present the principles of object-oriented programming (OOP) in Java, including classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 
-## Tratamento de Exceções
+## Exception Handling
 
-Explique como tratar exceções em Java usando blocos try-catch e como criar suas próprias exceções personalizadas.
+Explain how to handle exceptions in Java using try-catch blocks and how to create your own custom exceptions.
